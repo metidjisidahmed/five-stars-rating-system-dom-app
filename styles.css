@@ -1,0 +1,21 @@
+#stars-container{
+    display: flex;
+    justify-content: space-around;
+    width: fit-content;
+}
+
+.fa-star{
+    color: gold;
+    font-size: 4rem;
+}
+
+.fa-star:hover{
+    cursor: pointer;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
